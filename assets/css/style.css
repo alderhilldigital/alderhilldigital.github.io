@@ -1021,6 +1021,15 @@ list-style: none;
 	font-weight:700;
 }
 
+.social-icons img{
+	max-width: 30px;
+	max-height: 30px;
+	margin: 0 20px;
+}
+.social-icons a:hover{
+	text-decoration:none;
+}
+
 @media (min-width:320px) and (max-width: 480px) {
 	.video-list-thumbs .glyphicon-play-circle{
     font-size: 35px;
