@@ -1029,6 +1029,10 @@ list-style: none;
 .social-icons a:hover{
 	text-decoration:none;
 }
+.courses img{
+	margin: 0 0 0 20px;
+	height: 18px;
+}
 
 @media (min-width:320px) and (max-width: 480px) {
 	.video-list-thumbs .glyphicon-play-circle{
